@@ -90,4 +90,4 @@ def generate_summary(file_name, top_n=10):
     # Step 5 - Offcourse, output the summarize texr
     print("Summarize Text: \n", ". ".join(summarize_text))
 
-generate_summary("wonderland.txt")
+generate_summary("sample.txt")
